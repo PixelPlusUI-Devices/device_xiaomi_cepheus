@@ -104,6 +104,6 @@ wifi.interface=wlan0
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
 
-# Elixir Stuff
-ro.elixir.maintainer=Mehdi
-ro.elixir.version=1.0
+# PPUI Stuff
+ro.pixelplusui.maintainer=Mehdi
+org.pixelplusui.device=Xiaomi Mi 9
